@@ -36,8 +36,8 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root,-)
-%{python3_sitearch}/markdown
-%{python3_sitearch}/Markdown-*.egg-info
+%{python3_sitelib}/markdown
+%{python3_sitelib}/Markdown-*.egg-info
 
 %files -n markdown
 %defattr(-,root,root,-)
