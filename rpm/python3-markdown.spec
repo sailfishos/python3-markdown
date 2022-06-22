@@ -3,7 +3,7 @@ Summary:    Python implementation of John Gruber's Markdown
 Version:    3.2.1
 Release:    1
 License:    BSD
-URL:        https://pypi.org/project/markdown/
+URL:        https://github.com/sailfishos/python3-markdown
 BuildArch:  noarch
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   python3-base
